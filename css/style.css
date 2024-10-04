@@ -118,13 +118,11 @@ header {
     transform: scale(1.03); 
 }
 
-/* About Section */
 .about-me {
     padding: 50px;
     text-align: center;
 }
 
-/* About Section */
 .about-section {
     display: flex;
     flex-direction: column;
